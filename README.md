@@ -54,7 +54,6 @@ The dashboard is designed to provide interactive insights through visualisations
 
 - Data Cleaning
 - Data Modelling
-- DAX Measures
 - Interactive Dashboard Design
 - Data Visualisation
 - KPI Development
