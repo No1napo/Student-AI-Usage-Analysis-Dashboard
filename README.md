@@ -76,7 +76,7 @@ The dashboard uses a publicly available student AI usage dataset for educational
 
 ### Student Demographics
 
-![Demographics](demographics.png)
+![Demographics](demograhics.png)
 
 ### AI Usage Analysis
 
