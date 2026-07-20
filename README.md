@@ -46,8 +46,6 @@ The dashboard is designed to provide interactive insights through visualisations
 
 - Power BI
 - Microsoft Excel
-- Power Query
-- DAX
 - Data Modelling
 
 ---
@@ -104,7 +102,6 @@ I'm an aspiring Data Analyst with experience in SQL, Power BI, Excel, and data v
 
 ### Connect with me
 
-- LinkedIn: *(Add your profile)*
-- GitHub: *(Add your GitHub profile)*
+- LinkedIn: www.linkedin.com/in/nana-poku-b07799133
 
 ---
