@@ -74,15 +74,35 @@ The dashboard uses a publicly available student AI usage dataset for educational
 
 ### Executive Summary
 
-![Dashboard Overview](images/dashboard-overview.png)
+![Overview](overview.png)
 
 ### Student Demographics
 
-![Student Demographics](images/student-demographics.png)
+![Demographics](demographics.png)
+
+![Analysis](analysis.png)
+
+If you want to use
+
+![Overview](Images/overview.png)
+
+then you ne
+
+Then your README becomes:
+
+## Dashboard Preview
+
+### Executive Summary
+
+![Overview](overview.png)
+
+### Student Demographics
+
+![Demographics](demographics.png)
 
 ### AI Usage Analysis
 
-![AI Analysis](images/ai-analysis.png)
+![Analysis](analysis.png)
 
 ---
 
